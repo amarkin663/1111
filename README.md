@@ -37,9 +37,9 @@ $ git config --global http.sslVerify false
 ```bash
 $ git add .
 $ git commit -m "Create .gitignore"
-[main (root-commit) 17df863] Create .gitignore
+[main (root-commit) 5e5e123] Create .gitignore
  1 file changed
- create mode 918212 .gitignore
+ create mode 918543 .gitignore
  
 ```
  
